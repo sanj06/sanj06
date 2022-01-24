@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**sanj06/sanj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/sanajna-balamurugan/">
+  <img align="left" alt="Sanjana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/sanj06">
+  <img align="left" alt="Sanjana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+
+## I am Sanjana Balamurugan (she/hers)
+
+- A Computer Science Graduate Student. 
+- Currently working on cool side projects in Backend Development and exercising my Data Structures and Algorithmic thinking.
+- Currently looking for Summer 2022 Internship opportunities to utilize my SDE skills and learn a lot more about technology!
+
+#### 📫 Reach me at
+sabalamurugan@ucsd.edu
+
+
+
