@@ -13,10 +13,10 @@
 
 ## I am Sanjana Balamurugan (she/hers)
 
-- A Computer Science Graduate Student. 
+- An incoming SWE Intern at ServiceNow.
+- A Computer Science Graduate Student at UC San Diego. 
 - Currently working on cool side projects in Backend Development and exercising my Data Structures and Algorithmic thinking.
-- Also exploring the world of UX to make more usable products.
-- Currently looking for Summer 2022 Internship opportunities to utilize my SDE skills and learn a lot more about technology!
+- Also exploring the world of UX to make more user-friendly and accessible software.
 
 #### 📫 Reach me at
 sabalamurugan@ucsd.edu
