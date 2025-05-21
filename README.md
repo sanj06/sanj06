@@ -13,13 +13,9 @@
 
 ## I am Sanjana Balamurugan (she/hers)
 
-- An incoming Software Engineer at ServiceNow.
-- A Computer Science Graduate Student (specialized in Human-Computer Interaction) at UC San Diego. 
+- Software Engineer at ServiceNow.
+- A Computer Science Graduate (specialized in Human-Computer Interaction) from UC San Diego. 
 - Currently working on side projects using the MERN stack to build websites.
 - Also exploring the world of UX to make more user-friendly and accessible software.
-
-#### 📫 Reach me at
-sabalamurugan@ucsd.edu
-
 
 
